@@ -10,8 +10,8 @@ public class Main {
 //        Scanner scanner = new Scanner(System.in);
         System.out.println("Tuco salamanca was right");
         System.out.println("Santy tiene mucho setso");
-        int piru=1;
-        System.out.println(piru);
+
+        
 //
 //
 //
