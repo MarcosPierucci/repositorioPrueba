@@ -8,6 +8,7 @@ public class Main {
 //        Almacenamiento<Integer> almacenamiento = new Almacenamiento();
 //        Almacenamiento<String> almacenamiento1 = new Almacenamiento();
 //        Scanner scanner = new Scanner(System.in);
+        System.out.println("Tuco salamanca was right");
 //
 //
 //
