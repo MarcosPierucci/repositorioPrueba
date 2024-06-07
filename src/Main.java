@@ -9,6 +9,7 @@ public class Main {
 //        Almacenamiento<String> almacenamiento1 = new Almacenamiento();
 //        Scanner scanner = new Scanner(System.in);
         System.out.println("Tuco salamanca was right");
+        System.out.println("Santy tiene mucho setso");
 //
 //
 //
